@@ -41,6 +41,6 @@ We are able to achieve 71% accuracy on both training data and testing data on bo
 │         ├──Ely
 │         └──Garrett
 ├── README.md
-├── presentation.pdf
+├── Tweet Sentiment for Investment.pdf
 └── SentimentAnalysis.ipynb
 ```
