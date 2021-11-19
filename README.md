@@ -16,7 +16,7 @@ Modeling:
 
 ## Model Result
 We are able to achieve 71% accuracy on both training data and testing data on both our naive bayes and neural network models without overfitting. However, naive bayes requires significantly less computational power so we decide to use naive bayes as our final model.
-![Confusion Matrix](desktop/Screen Shot 2021-11-18 at 11.43.48 AM)
+![Confusion Matrix](image/confusion_matrix.png)
 
 
 ## Next Steps
@@ -30,6 +30,7 @@ We are able to achieve 71% accuracy on both training data and testing data on bo
 
 ## Repository Navigation
 ```
+├── image
 ├── notebooks
 │         ├──Dave
 │         ├──Ely
