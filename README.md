@@ -2,6 +2,8 @@
 ![Rich Twitter Bird](https://edlatimore.com/uploads/thumbnails/buy-retweets-ed-latimore.jpeg)
 
 ## Project Overview
+In a world where technology startups are plentiful, consumer sentiment towards a brand can give us a lot of insights into their purchasing decisions, hence the financial performance of the company that makes them. Technology investment company WhiteOre have acquired our services to build them a predictive model that monitors recent tweets on technology products to help them make informed investment decisions. WhiteOre wants a generalizable model to gauge sentiment across different brands, to act as a filtering system to help decide which brands to investigate further for possible investment. WhiteOre only cares about whether people have positive emotions towards the brand because people buy things they like.
+
 For this project, we used advanced supervised modeling process and natural language processing to solve a tweet sentiment classification problem using an advanced dataset.
 
 ## Data Overview
@@ -17,11 +19,6 @@ Modeling:
 ## Model Result
 We are able to achieve 71% accuracy on both training data and testing data on both our naive bayes and neural network models without overfitting. However, naive bayes requires significantly less computational power so we decide to use naive bayes as our final model.
 ![Confusion Matrix](image/confusion_matrix.png)
-
-
-## Next Steps
-
-
 
 ## Authors
 - Ely Lin
