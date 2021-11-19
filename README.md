@@ -26,7 +26,7 @@ We are able to achieve 71% accuracy on both training data and testing data on bo
 ![Confusion Matrix](image/confusion_matrix.png)
 
 ## Presentation
-![link to google slides](https://docs.google.com/presentation/d/12Tb1ed2SbGphrxCsO1BT1f8iac0difPph5i04wmmpwE/edit#slide=id.gfc5f0eb8fb_0_0)
+<a href="https://docs.google.com/presentation/d/12Tb1ed2SbGphrxCsO1BT1f8iac0difPph5i04wmmpwE/edit#slide=id.gfc5f0eb8fb_0_0">Link to Google Slides</a>
 
 ## Authors
 - Ely Lin
